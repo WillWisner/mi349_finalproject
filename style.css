@@ -134,3 +134,7 @@ p a.a2:hover{ color:#fff; text-decoration:underline;
 }
 #footer p a:hover{text-decoration:none; background:#848484; color:#fff
 }
+
+.form{
+	padding: 20px;
+}
