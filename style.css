@@ -15,7 +15,7 @@ p a.a2:hover{ color:#fff; text-decoration:underline;}
 
 #container{width:775px; position:relative; margin:0 auto; background:#2a2a2a}
 
-/* HEADER */
+
 
 #header{width:735px; height:283px;  position:relative; background:url(../images/b_header.jpg) 0 0 no-repeat; margin:0 auto}
 
@@ -45,7 +45,7 @@ p a.a2:hover{ color:#fff; text-decoration:underline;}
 
 #header ul.menu li.line{width:6px; background:url(../images/bullet_m.gif) 0 6px no-repeat}
 
-/* CONTENT */
+
 
 #content{width:735px; position:relative; clear:both; margin:0 auto; background:url(../images/b_content.gif) 0 0 repeat-y}
 
